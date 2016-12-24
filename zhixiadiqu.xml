@@ -1,0 +1,10 @@
+<zhixiadiqu dn="day">
+<city quName="北京" pyName="beijing" cityname="北京" state1="1" state2="1" stateDetailed="多云" tem1="32" tem2="23" windState="微风"/>
+<city quName="天津" pyName="tianjin" cityname="天津" state1="1" state2="1" stateDetailed="多云" tem1="33" tem2="24" windState="东南风小于3级"/>
+<city quName="上海" pyName="shanghai" cityname="上海" state1="2" state2="2" stateDetailed="阴" tem1="29" tem2="24" windState="东北风3-4级"/>
+<city quName="重庆" pyName="chongqing" cityname="重庆" state1="0" state2="0" stateDetailed="晴" tem1="38" tem2="27" windState="微风"/>
+<city quName="海南" pyName="hainan" cityname="海口" state1="4" state2="1" stateDetailed="雷阵雨转多云" tem1="33" tem2="26" windState="东南风3-4级"/>
+<city quName="香港" pyName="xianggang" cityname="香港" state1="1" state2="1" stateDetailed="多云" tem1="32" tem2="26" windState="微风转东北风小于3级"/>
+<city quName="澳门" pyName="aomen" cityname="澳门" state1="1" state2="1" stateDetailed="多云" tem1="33" tem2="27" windState="微风转东风小于3级"/>
+<city quName="台湾" pyName="taiwan" cityname="台北" state1="7" state2="2" stateDetailed="小雨转阴" tem1="32" tem2="27" windState="微风"/>
+</zhixiadiqu>
